@@ -1,4 +1,0 @@
-def name(str1):
-	print(str1)
-str1=input()
-name(str1)
